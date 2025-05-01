@@ -58,9 +58,6 @@ To run the project locally using XAMPP:
    http://localhost/hellocart-php-mvc-version/public
    ```
 
-## 🖼️ Screenshots
-
-> *(You can add screenshots here to give users a visual preview)*
 
 ## 📬 Contact
 
